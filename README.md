@@ -60,7 +60,7 @@
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/saheed-tech/A-small-Active-Directory-IAM-lab-using-Windows-Server-and-two-Windows-8.1-clients) |
 | 03-AWS-deployment | Configure and hardening Cloud console in AWS | [View Repo](https://github.com/saheed-tech/AWS-IAM-CLOUD-SECURITY-PROJECT-) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/saheed-tech/Crafting-AUP-Password-and-ACL-Policies-GitHub-Governance-Project-) |
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
+| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/saheed-tech/Network-and-web-app-scanning-with-Nessus-and-Nmap) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
