@@ -63,12 +63,13 @@
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/saheed-tech/Network-and-web-app-scanning-with-Nessus-and-Nmap) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
-| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
-| 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
-| 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
-| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
-| 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/saheed-tech/Industry-Focused-Threat-Hunting-APT-TTP-Analysis) |
+| 09-threat modelling | impact of threat modelling | [View Repo](#) |
+| 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
+| 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
+| 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
+| 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
+| 14-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 |
 
 ---
