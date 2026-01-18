@@ -70,7 +70,7 @@
 | 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 14-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
-|
+
 
 ---
 
