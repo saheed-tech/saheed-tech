@@ -61,7 +61,7 @@
 | 03-AWS-deployment | Configure and hardening Cloud console in AWS | [View Repo](https://github.com/saheed-tech/AWS-IAM-CLOUD-SECURITY-PROJECT-) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/saheed-tech/Crafting-AUP-Password-and-ACL-Policies-GitHub-Governance-Project-) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/saheed-tech/Network-and-web-app-scanning-with-Nessus-and-Nmap) |
-| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 06-network-monitoring using splunk dashboards | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/saheed-tech/Industry-Focused-Threat-Hunting-APT-TTP-Analysis) |
 | 09-threat modelling | Owasp threat dragon and Microsoft threat modelling tools | [View Repo](https://github.com/saheed-tech/Threat-Modeling-Tools-OWASP-Threat-Dragon-Microsoft-Threat-Modeling-Tool) |
@@ -70,6 +70,7 @@
 | 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 14-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+
 
 
 ---
