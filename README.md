@@ -68,7 +68,7 @@
 | 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/saheed-tech/Cybersecurity-Audit-Project-Employee-Vigilance-Assessment) |
 | 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/saheed-tech/Phishing-Email-Forensics-sample-2350.eml-PhishingPot-) |
 | 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/saheed-tech/Linux-Permission-Audit-Documentation) |
-| 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
+| 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/saheed-tech/SQLi-and-DDOS-) |
 | 14-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 
 
