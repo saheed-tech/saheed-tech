@@ -67,7 +67,7 @@
 | 09-threat modelling | Owasp threat dragon and Microsoft threat modelling tools | [View Repo](https://github.com/saheed-tech/Threat-Modeling-Tools-OWASP-Threat-Dragon-Microsoft-Threat-Modeling-Tool) |
 | 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/saheed-tech/Cybersecurity-Audit-Project-Employee-Vigilance-Assessment) |
 | 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/saheed-tech/Phishing-Email-Forensics-sample-2350.eml-PhishingPot-) |
-| 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
+| 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/saheed-tech/Linux-Permission-Audit-Documentation) |
 | 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 14-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 
